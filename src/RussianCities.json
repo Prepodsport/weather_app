@@ -1,0 +1,58 @@
+[
+  {
+  "id": 1,
+  "latitude": "55.75583",
+  "longitude": "37.61778",
+  "name": "Москва",
+  "population": 13010112,
+  "region": "Москва"
+  },
+  {
+  "id": 2,
+  "latitude": "55.95",
+  "longitude": "30.31667",
+  "name": "Санкт-Петербург",
+  "population": 5601911,
+  "region": "Санкт-Петербург"
+  },
+  {
+  "id": 3,
+  "latitude": "52.28333",
+  "longitude": "104.3",
+  "name": "Иркутск",
+  "population": 617264,
+  "region": "Иркутская область"
+  },
+  {
+  "id": 4,
+  "latitude": "52.03333",
+  "longitude": "113.5",
+  "name": "Чита",
+  "population": 334427,
+  "region": "Забайкальский край"
+  },
+  {
+  "id": 5,
+  "latitude": "43.11667",
+  "longitude": "131.9",
+  "name": "Владивосток",
+  "population": 603519,
+  "region": "Приморский край"
+  },
+  {
+  "id": 6,
+  "latitude": "62.02722",
+  "longitude": "129.73194",
+  "name": "Якутск",
+  "population": 13010112,
+  "region": "Якутия"
+  },
+  {
+    "id": 7,
+    "name": "Дмитров",
+    "latitude": "56,3448",
+    "longitude": "37,5204",
+    "population": 61607,
+    "region": "Московская область"
+  }
+]
